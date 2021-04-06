@@ -1,0 +1,13 @@
+D:\Primer Año UMG\001 Documentos Importantes Ana Marta\001 Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\ListadoEstudiantes\obj\Debug\netcoreapp3.1\Estudiante.csprojAssemblyReference.cache
+D:\Primer Año UMG\001 Documentos Importantes Ana Marta\001 Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\ListadoEstudiantes\obj\Debug\netcoreapp3.1\Estudiante.AssemblyInfoInputs.cache
+D:\Primer Año UMG\001 Documentos Importantes Ana Marta\001 Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\ListadoEstudiantes\obj\Debug\netcoreapp3.1\Estudiante.AssemblyInfo.cs
+D:\Primer Año UMG\001 Documentos Importantes Ana Marta\001 Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\ListadoEstudiantes\obj\Debug\netcoreapp3.1\Estudiante.csproj.CoreCompileInputs.cache
+D:\Primer Año UMG\001 Documentos Importantes Ana Marta\001 Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\ListadoEstudiantes\bin\Debug\netcoreapp3.1\Estudiante.exe
+D:\Primer Año UMG\001 Documentos Importantes Ana Marta\001 Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\ListadoEstudiantes\bin\Debug\netcoreapp3.1\Estudiante.deps.json
+D:\Primer Año UMG\001 Documentos Importantes Ana Marta\001 Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\ListadoEstudiantes\bin\Debug\netcoreapp3.1\Estudiante.runtimeconfig.json
+D:\Primer Año UMG\001 Documentos Importantes Ana Marta\001 Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\ListadoEstudiantes\bin\Debug\netcoreapp3.1\Estudiante.runtimeconfig.dev.json
+D:\Primer Año UMG\001 Documentos Importantes Ana Marta\001 Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\ListadoEstudiantes\bin\Debug\netcoreapp3.1\Estudiante.dll
+D:\Primer Año UMG\001 Documentos Importantes Ana Marta\001 Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\ListadoEstudiantes\bin\Debug\netcoreapp3.1\Estudiante.pdb
+D:\Primer Año UMG\001 Documentos Importantes Ana Marta\001 Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\ListadoEstudiantes\obj\Debug\netcoreapp3.1\Estudiante.dll
+D:\Primer Año UMG\001 Documentos Importantes Ana Marta\001 Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\ListadoEstudiantes\obj\Debug\netcoreapp3.1\Estudiante.pdb
+D:\Primer Año UMG\001 Documentos Importantes Ana Marta\001 Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\ListadoEstudiantes\obj\Debug\netcoreapp3.1\Estudiante.genruntimeconfig.cache
